@@ -27,4 +27,4 @@ selected_page = st.sidebar.radio("Navigation", list(pages.keys()))
 md = md_loader[selected_page]
 pages[selected_page](md=md)
 
-st.write("Bon Appetit!!")
+st.write("Bon Appetit!!!")

@@ -13,5 +13,5 @@ Ingredients:
 
 Instructions:
 > Add oil to mini waffle maker  
-> Four mins each waffle
-> Makes 4 waffles
+> Four mins each waffle  
+> Makes 4 waffles  

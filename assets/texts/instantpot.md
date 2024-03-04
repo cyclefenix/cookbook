@@ -12,6 +12,6 @@ Ingredients:
 - 4 cups water or chicken broth
 
 Instructions:
-- prep veg before hand
-- everything into the instant pot
-- 6 mins high pressure, or used bean setting
+> prep veg before hand  
+> everything into the instant pot  
+> 6 mins high pressure, or used bean setting  

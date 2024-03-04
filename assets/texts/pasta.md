@@ -12,9 +12,6 @@ Ingredients:
 - 16 oz pasta (1 lb)
 
 Instructions:
-- Blender - add almond milk, salt, nooch.
-Then cashews, olive oil.
-Basil
-Lemon juic
-- Cook pasta, short 1 or 2 mins.  Drain
-- Mix in blended sauce
+> Blender - add almond milk, salt, nooch.  Then cashews, olive oil.  Then Basil.  Then lemon juice.  
+> Cook pasta, short 1 or 2 mins.  Drain  
+> Mix in blended sauce  

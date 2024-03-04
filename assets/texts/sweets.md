@@ -14,13 +14,13 @@ Ingredients:
 - 100 ml oat milk
 
 Instructions:
-> Make filling day before.  Whisk pumpkin, eggs, sugar.  Add dry.  Add remaining wet.  Fridge overnight.
+> Make filling day before.  Whisk pumpkin, eggs, sugar.  Add dry.  Add remaining wet.  Fridge overnight.  
 > Preheat oven 375F  
-> Roll out Pie Dough to 12" circle for 9" pie dish
-> Parbake crust.  Line with parchment paper and rice for pie weights.  Parbake 10 mins.  After removing the weights, prick with fork.  Parbake another 7-8 mins.
-> Pour filling
-> Bake 55-60 mins.  Check at 50/55/60 mins
-> Once done, cool for 3 hours
+> Roll out Pie Dough to 12" circle for 9" pie dish  
+> Parbake crust.  Line with parchment paper and rice for pie weights.  Parbake 10 mins.  After removing the weights, prick with fork.  Parbake another 7-8 mins.  
+> Pour filling  
+> Bake 55-60 mins.  Check at 50/55/60 mins  
+> Once done, cool for 3 hours  
 
 
 ### Pumpkin Spice Blend
@@ -32,4 +32,7 @@ Ingredients:
 - 1/2 all spice
 
 Instructions:
-> It's 50% cinnamon, 25% gnd ginger, 12% nutmeg, and 6% cloves and allspice each
+> It's 50% cinnamon,  
+> 25% gnd ginger,  
+> 12% nutmeg,  
+> and 6% cloves and allspice each

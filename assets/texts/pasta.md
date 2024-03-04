@@ -1,4 +1,4 @@
-# Pasta
+# Pasta Recipes
 
 ### Basil Cashew Pesto Pasta
 Ingredients:

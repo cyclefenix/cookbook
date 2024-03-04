@@ -10,6 +10,7 @@ Ingredients:
 - 2 tsp brown sugar
 - 1 large egg
 - 1 Tbsp oil
+
 Instructions:
 > Add oil to mini waffle maker  
 > Four mins each waffle

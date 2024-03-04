@@ -1,6 +1,6 @@
 # Breakfast Recipes
 
-### Mini Waffle Maker Banana Waffles
+## Mini Waffle Maker Banana Waffles
 Ingredients:
 - 3/4 cup AP flour (96g)
 - 1/2 tsp baking powder

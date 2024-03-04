@@ -7,16 +7,18 @@ def render_page(md=None):
 
 pages = {
     "Bread" : render_page,
-    "Breakfast": render_page,
+    "Breakfast" : render_page,
+    "Chinese" : render_page,
     "Instant Pot" : render_page,
-    "Pasta": render_page,
+    "Pasta" : render_page,
     "Slow Cook" : render_page,
     "Sweets" : render_page,
 }
 
 md_loader = {
     "Bread" : "assets/texts/bread.md",
-    "Breakfast": "assets/texts/breakfast.md",
+    "Breakfast" : "assets/texts/breakfast.md",
+    "Chinese" : "assets/texts/chinese.md",
     "Instant Pot" : "assets/texts/instantpot.md",
     "Pasta" : "assets/texts/pasta.md",
     "Slow Cook" : "assets/texts/slowcook.md",

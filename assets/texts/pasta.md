@@ -1,6 +1,6 @@
 # Pasta Recipes
 
-### Basil Cashew Pesto Pasta
+## Basil Cashew Pesto Pasta
 Ingredients:
 - 1 cup basil, rinsed
 - 1 cup unsalted cashew, roasted

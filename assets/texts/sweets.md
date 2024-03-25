@@ -1,7 +1,7 @@
 # Sweets Recipes
 
 ## Gingerbread Muffins
-*Sally's Baking Addiction*
+*Sally's Baking Addiction*  
 *Half portion, makes six muffins*  
 *Melted Ingredients*
 - 58g melted butter
@@ -28,7 +28,7 @@
 
 
 ## Pumpkin Pie
-*Sally's Baking Addiction*
+*Sally's Baking Addiction*  
 *Ingredients:*
 - 1 x Pie dough
 - 1 can pumpkin puree (425g)
@@ -67,7 +67,7 @@
 
 
 ## Apple Galette
-*Sally's Baking Addiction*
+*Sally's Baking Addiction*  
 *Ingredients:*
 - 1 x Pie Dough
 - 4 apples (2 granny smith, 2 fuji or other sweet apple), chopped into 1/4 slices

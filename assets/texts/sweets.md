@@ -3,16 +3,18 @@
 ## Gingerbread Muffins
 *Sally's Baking Addiction*  
 *Half portion, makes six muffins*  
-*Melted Ingredients*  
+*Melted Ingredients*
 - 58g melted butter
-- 117g molasses  
-*Dry Ingredients*  
+- 117g molasses
+
+*Dry Ingredients*
 - 167g AP flour
 - 3/4 tsp baking soda
 - 1/8 tsp fine salt
 - 3/4 tsp ground cinnamon
 - 1/4 tsp ground cloves
-- 1/2 + 1/8 tsp ground ginger  
+- 1/2 + 1/8 tsp ground ginger
+
 *Wet Ingredients*  
 - 50g brown sugar (I should halve this in the future)
 - 1 egg
@@ -25,6 +27,29 @@
 3. Add wet to melted
 4. Add wet to dry
 5. Muffin tins.  Bake 425degF 5 min, 350degF 15-16 mins
+
+
+## Apple Galette
+*Sally's Baking Addiction*  
+*Ingredients:*  
+- 1 x Pie Dough
+- 4 apples (2 granny smith, 2 fuji or other sweet apple), chopped into 1/4 slices
+- 1/4 cup brown sugar (50g)
+- 1.5 Tbsp AP flour (12g)
+- 2 tsp lemon juice
+- 1 tsp ground cinnamon
+- 1/4 tsp nutmeg
+- eggwash: 1 egg beaten with 1 tsp of water
+
+*Instructions:*
+1. Make crust, chill in fridge
+2. Make filling.  Mix everything together, put in fridge (Up to 3 days in advance)
+3. Line baking sheet with parchment paper and prep spot in fridge
+4. On a lightly floured surface, roll out dough to a 12 inch circle.  Transfer to baking sheet
+5. Arrange apple filling in center, leaving a 2-3 inch border.  Fold gently, press.  Brush generously edge with egg wash
+6. Fridge shaped galette for 15-20 minutes, up to 8 hours.  If refridgerating longer than 1-2 hours, cover lightly.
+7. Preheat oven to 400F
+8. Bake 35-36 mins
 
 
 ## Pumpkin Pie
@@ -66,24 +91,3 @@
 > and 6% cloves and allspice each
 
 
-## Apple Galette
-*Sally's Baking Addiction*  
-*Ingredients:*  
-- 1 x Pie Dough
-- 4 apples (2 granny smith, 2 fuji or other sweet apple), chopped into 1/4 slices
-- 1/4 cup brown sugar (50g)
-- 1.5 Tbsp AP flour (12g)
-- 2 tsp lemon juice
-- 1 tsp ground cinnamon
-- 1/4 tsp nutmeg
-- eggwash: 1 egg beaten with 1 tsp of water
-
-*Instructions:*
-1. Make crust, chill in fridge
-2. Make filling.  Mix everything together, put in fridge (Up to 3 days in advance)
-3. Line baking sheet with parchment paper and prep spot in fridge
-4. On a lightly floured surface, roll out dough to a 12 inch circle.  Transfer to baking sheet
-5. Arrange apple filling in center, leaving a 2-3 inch border.  Fold gently, press.  Brush generously edge with egg wash
-6. Fridge shaped galette for 15-20 minutes, up to 8 hours.  If refridgerating longer than 1-2 hours, cover lightly.
-7. Preheat oven to 400F
-8. Bake 35-36 mins

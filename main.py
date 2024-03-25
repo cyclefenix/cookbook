@@ -16,9 +16,9 @@ pages = {
 }
 
 md_loader = {
-    "Asian" : "assets/texts/eastasian.md",
+    "Asian" : "assets/texts/asian.md",
     "Bread" : "assets/texts/bread.md",
-    "Mini Waffle Maker" : "assets/texts/miniwafflemaker.md",
+    "Mini Waffle" : "assets/texts/miniwaffle.md",
     "Instant Pot" : "assets/texts/instantpot.md",
     "Slow Cook" : "assets/texts/slowcook.md",
     "Stove Top" : "assets/texts/stovetop.md",

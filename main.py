@@ -8,7 +8,7 @@ def render_page(md=None):
 pages = {
     "Asian" : render_page,
     "Bread" : render_page,
-    "Mini Waffle Maker" : render_page,
+    "Mini Waffle" : render_page,
     "Instant Pot" : render_page,
     "Slow Cook" : render_page,
     "Stove Top" : render_page,

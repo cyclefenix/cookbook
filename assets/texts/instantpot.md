@@ -16,11 +16,13 @@
 - 1 tsp kosher salt
 - 2 cups chicken broth
 - 4 cups water
+- 1 can 14 oz coconut milk
 
 *Instructions:*
 1. Prep veg before hand  
-2. Everything into the instant pot  
+2. Everything into the instant pot, except coconut milk  
 3. 15 mins high pressure, or use rice setting  
+4. Add coconut milk after natural release
 
 
 ## Green Lentil Soup

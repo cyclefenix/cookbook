@@ -3,17 +3,17 @@
 ## Gingerbread Muffins
 *Sally's Baking Addiction*  
 *Half portion, makes six muffins*  
-*Melted Ingredients*
+*Melted Ingredients*  
 - 58g melted butter
-- 117g molasses
-*Dry Ingredients*
+- 117g molasses  
+*Dry Ingredients*  
 - 167g AP flour
 - 3/4 tsp baking soda
 - 1/8 tsp fine salt
 - 3/4 tsp ground cinnamon
 - 1/4 tsp ground cloves
-- 1/2 + 1/8 tsp ground ginger
-*Wet Ingredients*
+- 1/2 + 1/8 tsp ground ginger  
+*Wet Ingredients*  
 - 50g brown sugar (I should halve this in the future)
 - 1 egg
 - 120g oat milk
@@ -68,7 +68,7 @@
 
 ## Apple Galette
 *Sally's Baking Addiction*  
-*Ingredients:*
+*Ingredients:*  
 - 1 x Pie Dough
 - 4 apples (2 granny smith, 2 fuji or other sweet apple), chopped into 1/4 slices
 - 1/4 cup brown sugar (50g)

@@ -1,7 +1,7 @@
 # Slow Cooker Recipes
 For our 4QT slow cooker
 
-## Slow cooker Beef Coconut Curry
+## Beef Coconut Curry
 *Ingredients:*
 - 1.5 lb Beef chuck (cubed)
 - 5 small golden potatoes (cubed, skin-on)

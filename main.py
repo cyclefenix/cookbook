@@ -6,22 +6,22 @@ def render_page(md=None):
     st.markdown(reader)
 
 pages = {
+    "Asian" : render_page,
     "Bread" : render_page,
-    "Breakfast" : render_page,
-    "Chinese" : render_page,
+    "Mini Waffle Maker" : render_page,
     "Instant Pot" : render_page,
-    "Pasta" : render_page,
     "Slow Cook" : render_page,
+    "Stove Top" : render_page,
     "Sweets" : render_page,
 }
 
 md_loader = {
+    "Asian" : "assets/texts/eastasian.md",
     "Bread" : "assets/texts/bread.md",
-    "Breakfast" : "assets/texts/breakfast.md",
-    "Chinese" : "assets/texts/chinese.md",
+    "Mini Waffle Maker" : "assets/texts/miniwafflemaker.md",
     "Instant Pot" : "assets/texts/instantpot.md",
-    "Pasta" : "assets/texts/pasta.md",
     "Slow Cook" : "assets/texts/slowcook.md",
+    "Stove Top" : "assets/texts/stovetop.md",
     "Sweets" : "assets/texts/sweets.md",
 }
 

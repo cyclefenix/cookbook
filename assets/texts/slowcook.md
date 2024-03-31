@@ -31,7 +31,8 @@ For our 4QT slow cooker
 *Ingredients:*
 - 2-3 lbs of pork shoulder, cut into chunks
 - kosher salt, about 1/4 tsp per half pound
-- 1/3 cup of liquid (soda, vinegar, or wine)
+- some acidic liquid (half a can of coke, or 1/4 cup vinegar + some sugar, or 1/3 cup of red wine)
+- *optional* half a yellow onion
 
 *Instructions:*
 1. Brown meat in a skillet  

@@ -8,8 +8,8 @@ def render_page(md=None):
 pages = {
     "Asian" : render_page,
     "Bread" : render_page,
-    "Mini Waffle" : render_page,
     "Instant Pot" : render_page,
+    "Mini Waffle" : render_page,
     "Slow Cook" : render_page,
     "Stove Top" : render_page,
     "Sweets" : render_page,
@@ -18,8 +18,8 @@ pages = {
 md_loader = {
     "Asian" : "assets/texts/asian.md",
     "Bread" : "assets/texts/bread.md",
-    "Mini Waffle" : "assets/texts/miniwaffle.md",
     "Instant Pot" : "assets/texts/instantpot.md",
+    "Mini Waffle" : "assets/texts/miniwaffle.md",
     "Slow Cook" : "assets/texts/slowcook.md",
     "Stove Top" : "assets/texts/stovetop.md",
     "Sweets" : "assets/texts/sweets.md",

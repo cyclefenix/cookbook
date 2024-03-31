@@ -20,3 +20,10 @@
 - 250g water
 - 80g fed sourdough starter
 
+*Instructions:*
+1. Combine all ingredients, mix, and proof overnight at room temp.  
+*optional* proof 4 hours on the counter room temp, and in the fridge up to 24 hours
+2. Preheat to 425 degF
+3. Shape dough, place in dutch oven lined with parchment paper, score, cover
+4. Bake for 45 mins 
+

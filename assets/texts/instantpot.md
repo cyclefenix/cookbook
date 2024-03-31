@@ -1,5 +1,27 @@
 # Instant Pot Recipes
 
+## Chicken Noodle Soup
+*Ingredients:*
+- Whole roasted chicken, cubed chicken meat, and carcass
+- 1 carrot, chopped
+- 1 celery, chopped
+- *optional* 1 shallot, halved
+- 0.5 lb pasta
+- 1/2 tsp kosher salt
+
+*Chicken broth:*
+- Chicken carcass/bones
+- 1 bay leaf
+- 1/2 tsp dried thyme
+
+*Instructions:*
+1. Whole roasted chicken, separate dark meat and light meat from carcass.  Cut meat into cubes/chunks.
+2. Make the chicken broth.  Instant pot, chicken carcass, bay leaf, dried thyme, 25 mins high pressure
+3. Natural release, add carrots and celery to instant pot.  6 mins high pressure.
+4. Meanwhile, cook pasta as directed, undercook 1 min.
+5. Natural release, add cubed chicken meat to instant pot.  Serve with pasta. 
+
+
 ## Wild Rice and Mushroom Soup
 *Ingredients:*
 - 1 carrot, diced small

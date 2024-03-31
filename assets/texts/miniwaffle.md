@@ -12,9 +12,9 @@ Ingredients:
 - 1 Tbsp oil
 
 Instructions:
-> Add oil to mini waffle maker  
-> Four mins each waffle  
-> Makes 4 waffles  
+1. Add oil to mini waffle maker  
+2. Four mins each waffle  
+3. Makes 4 waffles  
 
 ## Mini Corn Meal Waffles
 Ingredients:
@@ -25,6 +25,6 @@ Ingredients:
 - 1 Tbsp oil
 
 Instructions:
-> Add oil to mini waffle maker
-> Four mins each waffle
-> Makes 4 waffle
+1. Add oil to mini waffle maker
+2. Four mins each waffle
+3. Makes 4 waffle

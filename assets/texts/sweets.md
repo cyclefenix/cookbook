@@ -1,33 +1,8 @@
 # Sweets Recipes
 
-## Gingerbread Muffins
-*Sally's Baking Addiction*  
-*Half portion, makes six muffins*  
-*Melted Ingredients*
-- 58g melted butter
-- 117g molasses
+# Spring Recipes
 
-*Dry Ingredients*
-- 167g AP flour
-- 3/4 tsp baking soda
-- 1/8 tsp fine salt
-- 3/4 tsp ground cinnamon
-- 1/4 tsp ground cloves
-- 1/2 + 1/8 tsp ground ginger
-
-*Wet Ingredients*  
-- 50g brown sugar (I should halve this in the future)
-- 1 egg
-- 120g oat milk
-- 1 tsp vinegar
-
-*Instructions*
-1. Microwave/melt molasses and butter
-2. Whisk dry
-3. Add wet to melted
-4. Add wet to dry
-5. Muffin tins.  Bake 425degF 5 min, 350degF 15-16 mins
-
+# Summer Recipes
 
 ## Apple Galette
 *Sally's Baking Addiction*  
@@ -51,6 +26,8 @@
 7. Preheat oven to 400F
 8. Bake 35-36 mins
 
+
+# Fall Recipes 
 
 ## Pumpkin Pie
 *Sally's Baking Addiction*  
@@ -90,4 +67,34 @@
 > 12% nutmeg,  
 > and 6% cloves and allspice each
 
+
+# Winter Recipes 
+
+## Gingerbread Muffins
+*Sally's Baking Addiction*  
+*Half portion, makes six muffins*  
+*Melted Ingredients*
+- 58g melted butter
+- 117g molasses
+
+*Dry Ingredients*
+- 167g AP flour
+- 3/4 tsp baking soda
+- 1/8 tsp fine salt
+- 3/4 tsp ground cinnamon
+- 1/4 tsp ground cloves
+- 1/2 + 1/8 tsp ground ginger
+
+*Wet Ingredients*  
+- 50g brown sugar (I should halve this in the future)
+- 1 egg
+- 120g oat milk
+- 1 tsp vinegar
+
+*Instructions*
+1. Microwave/melt molasses and butter
+2. Whisk dry
+3. Add wet to melted
+4. Add wet to dry
+5. Muffin tins.  Bake 425degF 5 min, 350degF 15-16 mins
 

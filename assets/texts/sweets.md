@@ -73,11 +73,11 @@
 ## Gingerbread Muffins
 *Sally's Baking Addiction*  
 *Half portion, makes six muffins*  
-*Melted Ingredients*
+*Melted Ingredients:*
 - 58g melted butter
 - 117g molasses
 
-*Dry Ingredients*
+*Dry Ingredients:*
 - 167g AP flour
 - 3/4 tsp baking soda
 - 1/8 tsp fine salt
@@ -85,7 +85,7 @@
 - 1/4 tsp ground cloves
 - 1/2 + 1/8 tsp ground ginger
 
-*Wet Ingredients*  
+*Wet Ingredients:*  
 - 50g brown sugar (I should halve this in the future)
 - 1 egg
 - 120g oat milk
@@ -98,3 +98,10 @@
 4. Add wet to dry
 5. Muffin tins.  Bake 425degF 5 min, 350degF 15-16 mins
 
+## Another Christmas Cooke
+*Townsends*
+*Half portion, makes 12-14 cookies*
+
+*Ingredients:*
+
+*Instructions:*

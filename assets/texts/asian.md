@@ -70,3 +70,29 @@
 4. Simmer eggs, 20 mins until half the sauce is reduced.
 
 ## Tteokbokki
+*Ingredients:*
+- 1 package fresh tteokbooki rice cakes
+- 1/8 green cabbage, chopped
+- 3 fish cake sheets, thawed in cold water, cut into triangles
+- *optional* soft boiled egg
+- *optional* instant ramen
+- *optional* seaweed strips, for garnish
+- *optional* sesame seeds, for garnish
+
+*Sauce:*
+- 1/4 tsp beef dashi powder
+- 1/4 tsp gochujang
+- 3 Tbsp korean chili flakes
+- 2 tsp sugar
+- 1 tsp soy sauce
+
+*Instructions:*
+1. Prep the cabbage, and fish cakes
+2. In a medium pot, at 3/4 inch of water.
+3. Add all the sauce ingredients, bring to a medium boil and stir until dissolved.
+4. Add tteokbokki rice cakes, lower heat and cover pot.  Cook for 5 mins.
+5. Uncover pot, mix the rice cakes around so that they separate.  Add more water if needed.
+6. Add cabbage, cover pot again.  Cook for 3 mins
+7. Uncover pot, add fish cakes and cover again.  Cook for 3 mins
+8. Serve.  Garnish with seaweed strip and sesame seeds.
+

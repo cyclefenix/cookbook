@@ -43,7 +43,7 @@
 *Instructions:*
 1. Prep veg before hand  
 2. Everything into the instant pot, except coconut milk  
-3. 15 mins high pressure, or use rice setting  
+3. 15 mins high pressure 
 4. Add coconut milk after natural release
 
 
@@ -64,7 +64,7 @@
 *Instructions:*
 1. Prep veg before hand  
 2. Everything into the instant pot  
-3. 15 mins high pressure, or use bean setting  
+3. 15 mins high pressure
 
 
 ## Red Lentil Soup
@@ -81,4 +81,4 @@
 *Instructions:*
 1. Prep veg before hand  
 2. Everything into the instant pot  
-3. 15 mins high pressure, or use bean setting  
+3. 15 mins high pressure

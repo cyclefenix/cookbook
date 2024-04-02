@@ -1,11 +1,16 @@
 import streamlit as st
 
+def main_page(md=None):
+    st.markdown("# Welcome to Cookbook")
+    st.markdown("### By cyclefenix")
+
 def render_page(md=None):
     with open(md, "r") as f:
         reader = f.read()
     st.markdown(reader)
 
 pages = {
+    "Main" : main_page,
     "Asian" : render_page,
     "Bread" : render_page,
     "Instant Pot" : render_page,
@@ -16,6 +21,7 @@ pages = {
 }
 
 md_loader = {
+    "Main" : None,
     "Asian" : "assets/texts/asian.md",
     "Bread" : "assets/texts/bread.md",
     "Instant Pot" : "assets/texts/instantpot.md",
@@ -29,4 +35,5 @@ selected_page = st.sidebar.radio("Navigation", list(pages.keys()))
 md = md_loader[selected_page]
 pages[selected_page](md=md)
 
-st.write("Bon Appetit!!!")
+if md is not None:
+    st.write("Bon Appetit!!!")

@@ -68,7 +68,7 @@
 > and 6% cloves and allspice each
 
 
-# Winter Recipes 
+# &#10052; Winter Recipes 
 
 ## Gingerbread Muffins
 *Sally's Baking Addiction*  

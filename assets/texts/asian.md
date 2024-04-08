@@ -54,6 +54,41 @@
 
 # Korean Food Recipes
 
+## Japchae
+*Ingredients:*
+- 250g dried Glass noodles (Korean potato starch noodles)
+- *sauce:*
+- 1/2 cup of water
+- 4 Tbsp soy sauce
+- 2 Tbsp sugar
+- 1 Tbsp sesame oil
+- 1/2 tsp black pepper
+- vegetables, such as red/yellow bell pepper, green cabbage
+
+*Instructions:*
+1. Stir fry veg, set aside
+2. Boil 6 cups of water in a pot, cook dried glass noodles
+3. Drain noodles and rinse in cold water
+4. In the same pot, add the water and sauce ingredients, bring to boil
+5. Add noodles back to the pot and mix with sauce, heat on low until done.
+
+
+## Kimchi Fried Rice
+*Ingredients:*
+- 3 cups leftover rice
+- 1 Tbsp sesame oil
+- 3/4 cup kimchi, chopped, with liquid
+- Extra soy sauce or fish sauce or salt, to taste
+- 1 or 2 eggs 
+- *optional* nori strips
+
+*Instructions:*
+1. Heat up wok.
+2. Add sesame oil, and add rice.  Add kimchi.  
+3. Add egg to fried rice, or fry separately and top when served
+4. Garnish with nori strips
+
+
 ## Korean Quail Eggs
 *Ingredients:*
 - 2 cans quail eggs (about 36 eggs)

@@ -1,8 +1,8 @@
 # Sweets Recipes
 
-# Spring Recipes
+# *Spring Recipes*
 
-# Summer Recipes
+# *Summer Recipes*
 
 ## Apple Galette
 *Sally's Baking Addiction*  
@@ -27,7 +27,7 @@
 8. Bake 35-36 mins
 
 
-# Fall Recipes 
+# *Fall Recipes*
 
 ## Pumpkin Pie
 *Sally's Baking Addiction*  
@@ -68,7 +68,7 @@
 > and 6% cloves and allspice each
 
 
-# &#10052; Winter Recipes 
+# &#10052; *Winter Recipes*
 
 ## Gingerbread Muffins
 *Sally's Baking Addiction*  

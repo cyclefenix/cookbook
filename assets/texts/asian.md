@@ -1,12 +1,31 @@
 # Asian Food Recipes
 
-# Chinese Food Recipes
+# *Chinese Food Recipes*
+
+## Shrimp and Egg Fried Rice
+*Ingredients:*
+- 4 cups leftover cooked white rice
+- 8-12 shrimp, cut into pieces
+- 3 eggs, beaten and salted
+- chopped cilantro
+- fish sauce
+- soy sauce
+
+*Instructions:*
+1. Prep ingredients.  Chop shrimp, chop cilantro.  Prepare eggs in a bowl, add salt.
+2. Heat up wok.  Cook shrimp 1-2 mins, side aside
+3. Add oil to wok and heat.  Add rice, and stir fry
+4. Add fish sauce and soy sauce around the edge of the wok, and stir fry until dry
+5. Push rice to the side.  Add oil to bottom of the pan.  Add eggs and lightly cook.  Mix together with rice.
+6. Add shrimp, stir fry until dry.
+7. Add cilantro, stir fry until dry.
+
 
 ## Mapo Tofu
 *Ingredients:*
 - 1 lb ground pork
 - 1 box 10oz? firm tofu
-- Sauce:
+- *Sauce:*
 - 1 Tbsp miso paste
 - 1 tsp tomato paste (or vegan oyster sauce)
 - 1 tsp toubanjang
@@ -21,13 +40,12 @@
 2. Turn down to medium heat, add sauce  
 3. Add tofu, cover  
 
-# Japanese Food Recipes
+# *Japanese Food Recipes*
 
 ## Chicken Teriyaki
 *Ingredients:*
 - 1.5 lb chicken thigh  
-
-*Marinade:*
+- *Marinade:*
 - 1.5 Tbsp soy sauce
 - 1.5 Tbsp mirin
 - 1.5 Tbsp rice wine (or sake)
@@ -52,14 +70,14 @@
 4. Add back the meat, and add curry cube.  Serve
 
 
-# Korean Food Recipes
+# *Korean Food Recipes*
 
 ## Japchae
 *Ingredients:*
 - 250g dried Glass noodles (Korean potato starch noodles)
 - *sauce:*
 - 1/2 cup of water
-- 4 Tbsp soy sauce
+- 6 Tbsp soy sauce
 - 2 Tbsp sugar
 - 1 Tbsp sesame oil
 - 1/2 tsp black pepper
@@ -67,10 +85,10 @@
 
 *Instructions:*
 1. Stir fry veg, set aside
-2. Boil 6 cups of water in a pot, cook dried glass noodles
+2. Boil water in a pot, cook dried glass noodles for 6 mins
 3. Drain noodles and rinse in cold water
-4. In the same pot, add the water and sauce ingredients, bring to boil
-5. Add noodles back to the pot and mix with sauce, heat on low until done.
+4. In the same pot, add the 1/2 cup water and sauce ingredients, bring to boil
+5. Add cooked noodles back to the pot and mix with sauce, heat on low until done.
 
 
 ## Kimchi Fried Rice

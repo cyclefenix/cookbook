@@ -12,7 +12,7 @@
 - 3/4 cup AP flour (96g)
 - 1/2 tsp baking powder
 - 1/8 tsp kosher salt
-- *optional* sub all dry ingredients with 97g of power waffle mix
+- *optional* sub all dry ingredients with 66g of power waffle mix
 
 *Instructions:*
 1. In a small bowl, mash the banana with a knife or fork

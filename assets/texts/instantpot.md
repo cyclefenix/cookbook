@@ -8,8 +8,7 @@
 - *optional* 1 shallot, halved
 - 0.5 lb pasta
 - 1/2 tsp kosher salt
-
-*Chicken broth:*
+- *Chicken broth:*
 - Chicken carcass/bones
 - 1 bay leaf
 - 1/2 tsp dried thyme

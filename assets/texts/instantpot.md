@@ -1,5 +1,19 @@
 # Instant Pot Recipes
 
+## Rice Porridge Jook
+
+*Ingredients:*
+- 3/4 cup of white rice
+- 4 cups of water
+- 2 cups of chicken broth
+- 2 big slices of ginger
+- 1 tsp kosher salt
+- 1 piece of swai fish, frozen
+
+*Instructios:*
+1. Everything into instant pot
+2. 12 mins high pressure.  Natural release
+
 ## Chicken Noodle Soup
 *Ingredients:*
 - Whole roasted chicken, cubed chicken meat, and carcass

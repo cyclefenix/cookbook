@@ -20,7 +20,6 @@
 6. Add shrimp, stir fry until dry.
 7. Add cilantro, stir fry until dry.
 
-
 ## Mapo Tofu
 *Ingredients:*
 - 1 lb ground pork
@@ -40,7 +39,23 @@
 2. Turn down to medium heat, add sauce  
 3. Add tofu, cover  
 
+
 # *Japanese Food Recipes*
+
+## Japanese Curry
+*Ingredients:*
+- 1.5 lb chicken thighs, cut into chunks
+- 2 yellow potatoes, cubed
+- 2 cups of water or chicken broth
+- *optional* 1 carrot, diced 
+- *optional* half a yellow onion, large dice
+- 2 squares of japanese curry mix (1/4 of a whole package)
+
+*Instructions:*
+1. Prep veg and meat
+2. Brown meat in a dutch oven, medium high heat.
+3. Add potato to pan.  Add water and cover.  Simmer for 15 mins
+4. Turn off heat, add curry cubes and dissolve.  Serve.
 
 ## Chicken Teriyaki
 *Ingredients:*
@@ -54,20 +69,6 @@
 1. Pound flat the chicken thighs
 2. Add Marinate overnight in a shallow tray
 3. Pan fry until 165 deg F
-
-## Japanese Curry
-*Ingredients:*
-- 1.5 lb chicken thighs, chunks
-- 1 carrot, chunked
-- 1-2 yellow potatoes, cubed
-- *optional* half a yellow onion, large dice
-- 1 square of japanese curry mix
-
-*Instructions:*
-1. Prep veg and meat
-2. Brown meat in a pan.  Set aside
-3. Add veg to pan and saute.  Add water and cover.
-4. Add back the meat, and add curry cube.  Serve
 
 
 # *Korean Food Recipes*

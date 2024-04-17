@@ -10,7 +10,7 @@
 - 1 tsp kosher salt
 - 1 piece of swai fish, frozen
 
-*Instructios:*
+*Instructions:*
 1. Everything into instant pot
 2. 12 mins high pressure.  Natural release
 

@@ -1,8 +1,6 @@
 # Sweets Recipes
 
-# *Spring Recipes*
-
-# *Summer Recipes*
+# &#9880; *Spring Recipes*
 
 ## Apple Galette
 *Sally's Baking Addiction*  
@@ -26,8 +24,17 @@
 7. Preheat oven to 400F
 8. Bake 35-36 mins
 
+# &#9728; *Summer Recipes*
 
-# *Fall Recipes*
+## Chewy Chocolate Chip Cookies
+*Sally's Baking Addiction*
+*Ingredients:*
+
+*Instructions:*
+
+
+
+# &#10086; *Fall Recipes*
 
 ## Pumpkin Pie
 *Sally's Baking Addiction*  
@@ -73,19 +80,17 @@
 ## Gingerbread Muffins
 *Sally's Baking Addiction*  
 *Half portion, makes six muffins*  
-*Melted Ingredients:*
+- *Melted Ingredients:*
 - 58g melted butter
 - 117g molasses
-
-*Dry Ingredients:*
+- *Dry Ingredients:*
 - 167g AP flour
 - 3/4 tsp baking soda
 - 1/8 tsp fine salt
 - 3/4 tsp ground cinnamon
 - 1/4 tsp ground cloves
 - 1/2 + 1/8 tsp ground ginger
-
-*Wet Ingredients:*  
+- *Wet Ingredients:*  
 - 50g brown sugar (I should halve this in the future)
 - 1 egg
 - 120g oat milk

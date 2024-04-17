@@ -76,10 +76,38 @@
 5. Form into a ball.  Divide in half.  Flatten to 1 inch diskes w/ hands.  Wrap in plastic wrap
 
 ## Flakey Buttermilk Biscuits
-*JW*
-*12 servings*
+*Josh Weissman*
+*Reduced recipe, makes 6 servings*
 *Ingredients:*
+- 98g butter, cubed and cold
+- *Dry ingredients:*
+- 230g AP flour
+- 4g kosher salt
+- 5g sugar
+- 5g baking powder
+- *Wet ingredients:*
+- 125g milk 
+- 5g vinegar
 
 *Instructions:*
+1. Cube and fridge butter
+2. Mix together dry in a medium bowl
+3. Mix vinegar and milk in cup and fridge
+4. Preheat oven 425degF
+5. Cut butter into dry ingredients
+6. Add wet to dry
+7. Square, then laminate, then divide into 6 pieces
+8. Bake 14 to 18 mins
+
 
 # Other Carby Recipes
+
+## Quiche
+
+## Japanese Milk Bread
+
+## Sourdough English Muffins
+
+## Cornbread, and cornbread muffins
+
+## Corn tortillas

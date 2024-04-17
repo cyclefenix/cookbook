@@ -15,8 +15,9 @@ pages = {
     "Bread" : render_page,
     "Instant Pot" : render_page,
     "Mini Waffle" : render_page,
+    "Pasta" : render_page,
+    "Seafood" : render_page,
     "Slow Cook" : render_page,
-    "Stove Top" : render_page,
     "Sweets" : render_page,
 }
 
@@ -26,8 +27,9 @@ md_loader = {
     "Bread" : "assets/texts/bread.md",
     "Instant Pot" : "assets/texts/instantpot.md",
     "Mini Waffle" : "assets/texts/miniwaffle.md",
+    "Pasta" : "assets/texts/pasta.md",
+    "Seafood" : "assets/texts/seafood.md",
     "Slow Cook" : "assets/texts/slowcook.md",
-    "Stove Top" : "assets/texts/stovetop.md",
     "Sweets" : "assets/texts/sweets.md",
 }
 

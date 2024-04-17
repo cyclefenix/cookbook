@@ -1,5 +1,3 @@
-# Stove Top Recipes
-
 # Pasta Recipes
 
 ## Basil Cashew Pesto Pasta
@@ -18,18 +16,3 @@
 2. Cook pasta in a medium pot, short 1 or 2 mins.
 3. Drain water from pot.  
 4. Add in blended sauce to the pasta in teh pot
-
-
-## Clam Chowder (Chef John)
-*Chef John*
-
-*Ingredients:*
-- potato
-- garlic, minced
-- olive oil
-- clam juice
-- canned clams
-
-*Instructions:*
-1. Stove top
-2. ....

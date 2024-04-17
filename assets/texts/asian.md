@@ -89,7 +89,7 @@
 2. Boil water in a pot, cook dried glass noodles for 6 mins
 3. Drain noodles and rinse in cold water
 4. In the same pot, add the 1/2 cup water and sauce ingredients, bring to boil
-5. Add cooked noodles back to the pot and mix with sauce, heat on low until done.
+5. Add cooked noodles back to the pot and mix with sauce.  Also add back in veg.  Heat on low until done.
 
 
 ## Kimchi Fried Rice
@@ -98,14 +98,15 @@
 - 1 Tbsp sesame oil
 - 3/4 cup kimchi, chopped, with liquid
 - Extra soy sauce or fish sauce or salt, to taste
-- 1 or 2 eggs 
+- *optional* 1 or 2 fried eggs 
 - *optional* nori strips
 
 *Instructions:*
 1. Heat up wok.
-2. Add sesame oil, and add rice.  Add kimchi.  
+2. Add sesame oil, and add rice.  Stir fry until dry.
+3. Add kimchi and kimchi liquid.  Stir fry until combined and dry.
 3. Add egg to fried rice, or fry separately and top when served
-4. Garnish with nori strips
+4. Transfer to serving bowl.  Garnish with nori strips
 
 
 ## Korean Quail Eggs
@@ -119,8 +120,8 @@
 
 *Instructions:*
 1. Boil water in a small pot.  Add dashi, sugar.  
-2. Drain cans.
-3. Add soy sauce to pot and re-boil.
+2. Add soy sauce to pot and re-boil.
+3. Drain cans of quail eggs.
 4. Simmer eggs, 20 mins until half the sauce is reduced.
 
 ## Tteokbokki
@@ -132,8 +133,7 @@
 - *optional* instant ramen
 - *optional* seaweed strips, for garnish
 - *optional* sesame seeds, for garnish
-
-*Sauce:*
+- *Sauce:*
 - 1/4 tsp beef dashi powder
 - 1/4 tsp gochujang
 - 3 Tbsp korean chili flakes

@@ -27,11 +27,34 @@
 # &#9728; *Summer Recipes*
 
 ## Chewy Chocolate Chip Cookies
-*Sally's Baking Addiction*
-*Ingredients:*
+*Sally's Baking Addiction*  
+*Makes 16 large cookies*  
+*Ingredients:*  
+- 2 1/4 cup AP flour (280g)
+- 1 tsp baking sode
+- 1 1/2 tsp cornstarch
+- 1/2 fine salt
+- 3/4 cup unsalted butter, melted (1.5 sticks or 170g), if salted, remove 1/4 tsp salt
+- 3/4 cup brown sugar (150g)
+- 1/2 cup sugar (100g)
+- 1 large egg + 1 egg yolk, room temp
+- 2 tsp vanilla extract
+- 1 1/4 cup chocolate chips (225g), *(or instead, 60g macadamia nuts, 60g white choco chips)*
 
 *Instructions:*
-
+1. Melt butter, let cool.  
+2. Whisk flour, baking soda, cornstarch, salt in medium bowl.  
+3. Small bowl, whisk melted butter, sugards.  Whisk egg, then egg yolk, then vanilla.
+4. Fold in choco chips.  
+5. Cover dough and chill in fridge for 2-3hr, up to 3-4 days.
+6. *Baking:*
+7. From fridge, slightly soften at room temp for 10 mins
+7. Preheat oven 325degF
+8. Line two baking sheets w/ parchment paper.
+9. Roll into 8 dough balls per sheet.  3 tableppons, tall egg shape
+10. Bake cookies 12-13 mins
+11. Cool on cookie sheet 10 mins
+12. Transfer to wire rack and cool completely
 
 
 # &#10086; *Fall Recipes*

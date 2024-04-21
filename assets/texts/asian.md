@@ -1,6 +1,26 @@
 # Asian Food Recipes
 
+
 # *Chinese Food Recipes*
+
+## Ketchup Fried Rice
+*Ingredients:*
+- 3 cups leftover cooked white rice
+- 1/2 to 1 cup ham, or spam, chopped
+- 2 eggs, beaten and salted
+- soy sauce
+- *mix together:*
+- 3 Tbsp ketchup
+- 1/4 tsp gochujang
+
+*Instructions:*
+1. Prep ingredients, rice, ham or spam, eggs.
+2. Heat up wok.  Fry meat in oil, side aside  
+3. Add rice, fry until dry.   
+4. Add ketchup/gochujang sauce mix.
+5. Add meat to wok, mix.  Add soy sauce.
+6. Fry egg.  Serve
+
 
 ## Shrimp and Egg Fried Rice
 *Ingredients:*
@@ -19,6 +39,7 @@
 5. Push rice to the side.  Add oil to bottom of the pan.  Add eggs and lightly cook.  Mix together with rice.
 6. Add shrimp, stir fry until dry.
 7. Add cilantro, stir fry until dry.
+
 
 ## Mapo Tofu
 *Ingredients:*
@@ -77,9 +98,10 @@
 *Ingredients:*
 - 250g dried Glass noodles (Korean potato starch noodles)
 - *sauce:*
-- 1/2 cup of water
-- 6 Tbsp soy sauce
-- 2 Tbsp sugar
+- 1/4 cup of water
+- 4 Tbsp light soy sauce
+- 1 Tbsp dark sou sauce
+- 1.5 Tbsp sugar
 - 1 Tbsp sesame oil
 - 1/2 tsp black pepper
 - vegetables, such as red/yellow bell pepper, green cabbage
@@ -87,7 +109,7 @@
 *Instructions:*
 1. Stir fry veg, set aside
 2. Boil water in a pot, cook dried glass noodles for 6 mins
-3. Drain noodles and rinse in cold water
+3. Drain noodles and rinse in cold water.  Cut in half.
 4. In the same pot, add the 1/2 cup water and sauce ingredients, bring to boil
 5. Add cooked noodles back to the pot and mix with sauce.  Also add back in veg.  Heat on low until done.
 
@@ -123,6 +145,7 @@
 2. Add soy sauce to pot and re-boil.
 3. Drain cans of quail eggs.
 4. Simmer eggs, 20 mins until half the sauce is reduced.
+
 
 ## Tteokbokki
 *Ingredients:*

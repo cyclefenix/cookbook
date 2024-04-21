@@ -2,24 +2,27 @@
 
 # *Sourdough Bread Recipes*
 
-## Ad Hoc Milk Bread Recipe
+## Milk Bread Loaf
 *500g recipe*  
 *Ingredients:*  
 - 500g AP flour
 - 25g white sugar
 - 10g fine sea salt
 - 1/3 packet instant yeast
-- 2 Tbsp melted butter
-- 300g oat milk
-- 1 egg
+- 2 Tbsp butter, melted
+- 300g oat milk, room temp
+- 1 egg, room temp
 - 100g fed sourdough starter
 
 *Instructions:*  
-> See Baking Bread Instructions  
-> Below  
+> Melt butter.  Oat milk and egg to room temp.  
+> Medium bowl, add flour.  Add sugar and mix.  
+> Add salt on one half, add yeast to the other half.  
+> Add wet.  Add sourdough starter.  Mix.  
+> See Baking Bread Instructions Below  
 
 
-## Cinnamon Raisin Sourdough Bread
+## Cinnamon Raisin Bread
 *500g recipe*  
 *Ingredients:*  
 - 75g whole wheat flour
@@ -29,38 +32,37 @@
 - 1/2 raisins
 - 10g fine sea salt
 - 1/3 packet instant yeast
-- 100g fed sourdough starter
 - 330g water
+- 100g fed sourdough starter
 
 *Instructions*  
-1. In a medium bowl (with a cover) mix together flour, sugar, cinnamon, raisins.
-2. On half, add salt and mix in.  Other half, add yeast and mix in.  
-3. Form a well in the middle for the liquid.  Add water.  Add starter.
-4. Mix together by hand or with a dough mixer.
-5. Set aside on the counter for 6 hours.  Place in fridge overnight.
-6. On bake day, remove from fridge.
-7. Preheat oven 425degF
-8. Shape dough into a boule.
-9. Place on parchment paper, into a dutch oven, score.
-10. Cover and into the over, 50mins for fridge cold dough
-11. Internal temp should be 190degF.  Rest for 4 hours
+> Medium bowl, mix together flour, sugar, cinnamon, raisins.  
+> On half, add salt and mix in.  Other half, add yeast and mix in.  
+> Form a well in the middle for the liquid.  Add water.  Add starter.  Mix together.  
+> See Baking Bread Instructions Below.  
+> Oven 425degF, 57mins from fridge cold  
 
-## Cranberry Walnut Sourdough Bread
+
+## Cranberry Walnut Bread
 *500g recipe*  
 *Ingredients:*  
 - 75g whole wheat flour
 - 425g bread flour
-- 10g fine sea salt
 - 25g brown sugar
-- handful walnuts, chopped
 - handful dried cranberries, chopped
+- 10g fine sea salt
 - 1/3 packet instant yeast
-- 100g fed sourdough starter
+- handful walnuts, chopped
 - 330g water
+- 100g fed sourdough starter
 
 *Instructions:*  
-> See Baking Bread Instructions  
-> Below  
+> Medium bowl, mix together flour, brown sugar sugar, cranberries.  
+> On half, add salt and mix in.  Other half, add yeast and mix in.  
+> Form a well in the middle for the liquid.  Add water.  Add starter.  Mix together. 
+> Add walnuts, mix together.   
+> See Baking Bread Instructions Below.  
+> Oven 425degF, 57mins from fridge cold  
 
 
 ## Sourdough Bread
@@ -75,9 +77,9 @@
 *Instructions:*  
 1. Combine all ingredients, mix, and proof overnight at room temp.  
 *optional* proof 4 hours on the counter room temp, and in the fridge up to 24 hours
-2. Preheat to 425 degF
+2. Preheat oven to 425 degF
 3. Shape dough, place in dutch oven lined with parchment paper, score, cover
-4. Bake for 45 mins (52 mins if from fridge)
+4. Bake for 45 mins (52 mins if from fridge cold)
 
 
 ## Baking Bread Instructions
@@ -86,9 +88,11 @@
 1. Start on Thursday evening.  In a medium bowl, mix together ingredients by hand or with a dough mixer.  Use about 1/3 packet of instant yeast
 2. Set aside on the counter for 2 to 4 hours.  Place in fridge overnight.
 4. Friday evening, remove from fridge and proof for 2 to 4 hours, until doubled in size.  Should be around 6 hours total proof time for first night and second night proof.
-5. Bake day Saturday.  Preheat oven 425degF
-6. Bake 52 mins for 400g recipe, 57 mins for 500g recipe
-7. Internal temp should be 190degF.  Rest for 4 hours
+5. Bake day Saturday.  Preheat oven 425degF.
+6. Shape dough into a boule.
+7. Place on parchment paper, into a dutch oven, score.
+8. Bake 52 mins for 400g recipe, 57 mins for 500g recipe.  
+9. Internal temp should be 190degF.  Rest for 4 hours. 
 
 
 # *Pastry Recipes*
@@ -108,6 +112,7 @@
 3. Drizzle ice water 1Tbsp(15ml) at a time until it comes together
 4. Transfer on floured surface.  Fold until incorporated.
 5. Form into a ball.  Divide in half.  Flatten to 1 inch diskes w/ hands.  Wrap in plastic wrap
+
 
 ## Flakey Buttermilk Biscuits
 *Josh Weissman*  

@@ -16,3 +16,15 @@
 2. Cook pasta in a medium pot, short 1 or 2 mins.
 3. Drain water from pot.  
 4. Add in blended sauce to the pasta in teh pot
+
+
+## Cod Roe Pasta
+*Ingredients:*
+- Pasta
+- two cod roe packets
+- olive oil
+
+*Instructions:*
+1. Boil water, cook pasta for one min less 
+2. Empty most of the water from pot except for like 1/4 cup of pasta water, leave pasta in pot
+3. Back on the hob, add olive oil.  Add two cod roe packets, stir and serve.

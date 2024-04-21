@@ -2,6 +2,25 @@
 
 # *Fish Recipes*
 
+## Creamed Corn Swai Fillet
+*Ingredients:*
+- 3 pieces of swai fish fillet
+- AP flour
+- *sauce:*
+- 1 can of cream of chicken
+- 1 can of creamed corn
+- 1/2 pkg frozen corn
+
+*Instructions:*
+1. Defrost fish, pat dry with paper towels.  Coat with flour
+2. Add oil to pan, pan fry fish
+3. In a sauce pan, add cream of chicken, creamed corn, some water, simmer.  Add frozen corn.
+
+
+## Baked Mackarel
+> Oven 400degF, 6 mins 
+
+
 ## Baked Salmon
 *Ingredients:*
 - 2.5lb salmon fillet

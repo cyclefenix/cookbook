@@ -57,10 +57,9 @@
 - 100g fed sourdough starter
 
 *Instructions:*  
-> Medium bowl, mix together flour, brown sugar sugar, cranberries.  
+> Medium bowl, add flour  
 > On half, add salt and mix in.  Other half, add yeast and mix in.  
-> Form a well in the middle for the liquid.  Add water.  Add starter.  Mix together. 
-> Add walnuts, mix together.   
+> Form a well in the middle for the liquid.  Add water.  Add brown sugar, walnuts, cranberries.  Add starter.  Mix together. 
 > See Baking Bread Instructions Below.  
 > Oven 425degF, 57mins from fridge cold  
 

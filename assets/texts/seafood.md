@@ -1,6 +1,22 @@
 # Seafood Recipes
 
-# *Fish Recipes*
+## Baked Salmon
+*Ingredients:*
+- 2.5lb salmon fillet
+- olive oil
+- salt
+- black pepper
+
+*Instructions:*
+1. Foil a baking tray
+2. Place fish.  Add olive oil, season with salt and pepper
+3. Preheat oven to 400degF
+4. 14 mins or until 145degF
+
+
+## Baked Mackarel
+> Oven 400degF, 6 mins 
+
 
 ## Creamed Corn Swai Fillet
 *Ingredients:*
@@ -16,26 +32,6 @@
 2. Add oil to pan, pan fry fish
 3. In a sauce pan, add cream of chicken, creamed corn, some water, simmer.  Add frozen corn.
 
-
-## Baked Mackarel
-> Oven 400degF, 6 mins 
-
-
-## Baked Salmon
-*Ingredients:*
-- 2.5lb salmon fillet
-- olive oil
-- salt
-- black pepper
-
-*Instructions:*
-1. Foil a baking tray
-2. Place fish.  Add olive oil, season with salt and pepper
-3. Preheat oven to 400degF
-4. 14 mins or until 145degF
-
-
-# *Other Seafood Recipes*
 
 ## Clam Chowder
 *Chef John*
